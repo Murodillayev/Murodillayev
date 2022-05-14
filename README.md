@@ -7,10 +7,10 @@ benefit humanity.For me, honest work is more important than financial gain.
 <hr>
 <h4>Education</h4>
 <b>TAQI lyceum</b>
-  <i>2015-2018</i>
+<br><i> 2015-2018</i>
 <br>
 <b>TUIT lyceum</b>
-  <i>2018-2022</i>
+<br><i> 2018-2022</i>
 <!--
 **MuhammadkomilMurodillayev/MuhammadkomilMurodillayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
