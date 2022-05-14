@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1>Murodillayev Muhammakdomil</h1>
+
 <!--
 **MuhammadkomilMurodillayev/MuhammadkomilMurodillayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
