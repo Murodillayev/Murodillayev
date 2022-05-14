@@ -2,6 +2,14 @@
 <h3>Backend developer</h3>
 <hr>
 <h4>About me</h4>
+<p>I am 22. I live in Tashkent. My highest objective, no matter what I do, is to do projects that only
+benefit humanity.For me, honest work is more important than financial gain.
+<hr>
+<h4>Education</h4>
+<b>TAQI lyceum
+  <i>2015-2018</i>
+<b>TAQI lyceum
+  <i>2018-2022</i>
 <!--
 **MuhammadkomilMurodillayev/MuhammadkomilMurodillayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
