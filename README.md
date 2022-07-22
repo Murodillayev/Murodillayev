@@ -1,19 +1,25 @@
 <h1>Murodillayev Muhammakdomil</h1>
-<h3>Backend developer</h3>
+<h2>Backend developer</h2>
 <hr>
-<h4>About me</h4>
+<h3>About me</h3>
 <p>I am 22. I live in Tashkent. My highest objective, no matter what I do, is to do projects that only
 benefit humanity.For me, honest work is more important than financial gain.</p>
 <hr>
-<h4>Education</h4>
+<h3>Education</h3>
 <b>TAQI lyceum</b>
 <br><i> 2015-2018</i>
 <br>
 <b>TUIT lyceum</b>
 <br><i> 2018-2022</i>
 <hr>
-<h4>Skills</h4>
-<button type ="button">Java EE</button><button>Java SE</button>
+<h3>Skills</h3>
+<br>Java SE, Java EE
+<br>Spring MVC, Spring boot, Spring Security
+<br>Hibernate ORM, JPA
+<br>PostgreSQL, MongoDB, SQL programming
+<br>JSP, Thymeleaf
+<br>Flyway, Open API, Stream API
+<br> C++, HTML, CSS, MATH
 <!--
 **MuhammadkomilMurodillayev/MuhammadkomilMurodillayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
