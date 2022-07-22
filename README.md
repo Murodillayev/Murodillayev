@@ -13,13 +13,13 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <br><i> 2018-2022</i>
 <hr>
 <h3>Skills</h3>
-<br>Java SE, Java EE
-<br>Spring MVC, Spring boot, Spring Security
-<br>Hibernate ORM, JPA
-<br>PostgreSQL, MongoDB, SQL programming
-<br>JSP, Thymeleaf
-<br>Flyway, Open API, Stream API
-<br> C++, HTML, CSS, MATH
+<br># Java SE, Java EE
+<br># Spring MVC, Spring boot, Spring Security
+<br># Hibernate ORM, JPA
+<br># PostgreSQL, MongoDB, SQL programming
+<br># JSP, Thymeleaf
+<br># Flyway, Open API, Stream API
+<br># C++, HTML, CSS, MATH
 <!--
 **MuhammadkomilMurodillayev/MuhammadkomilMurodillayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
