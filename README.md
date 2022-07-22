@@ -15,10 +15,10 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <h3>Skills</h3>
 <br># Java SE, Java EE
 <br># Spring MVC, Spring boot, Spring Security
-<br># Hibernate ORM, JPA
+<br># Hibernate ORM, JPA, JDBC template, Rest template
 <br># PostgreSQL, MongoDB, SQL programming
 <br># JSP, Thymeleaf
-<br># Flyway, Open API, Stream API
+<br># Flyway, Open API, Stream API, REST API
 <br># C++, HTML, CSS, MATH
 <!--
 **MuhammadkomilMurodillayev/MuhammadkomilMurodillayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
