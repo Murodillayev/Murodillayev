@@ -13,7 +13,7 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <br><i> 2018-2022</i>
 <hr>
 <h4>Skills</h4>
-<button>Java EE</button><button>Java SE</button>
+<button type ="button">Java EE</button><button>Java SE</button>
 <!--
 **MuhammadkomilMurodillayev/MuhammadkomilMurodillayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
