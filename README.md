@@ -8,9 +8,11 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <h3>Education</h3>
 <b>TAQI lyceum</b>
 <br><i> 2015-2018</i>
-<br><b>PDP academy</b>
-<br><i>UNICORN</i>
+<br>
+<br><b>PDP academy(UNICORN)</b>
+<br><i>Backend development(Java)</i>
 <br><i>2021-2022</i>
+<br>
 <br>
 <b>TUIT</b>
 <br><i>Software engineering</i>
