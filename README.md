@@ -10,7 +10,7 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <br><i> 2015-2018</i>
 <br>
 <b>TUIT</b>
-<br><h6><i>Software engineering</i></h6>
+<br><i>Software engineering</i>
 <br><i> 2018-2022</i>
 <hr>
 <h3>Skills</h3>
