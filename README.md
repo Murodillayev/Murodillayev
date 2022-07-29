@@ -9,7 +9,8 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <b>TAQI lyceum</b>
 <br><i> 2015-2018</i>
 <br>
-<b>TUIT lyceum</b>
+<b>TUIT</b>
+<i>Software engineering</i>
 <br><i> 2018-2022</i>
 <hr>
 <h3>Skills</h3>
