@@ -2,7 +2,7 @@
 <h2>Backend developer</h2>
 <hr>
 <h3>About me</h3>
-<p>I am 22. I live in Tashkent. My highest objective, no matter what I do, is to do projects that only
+<p>I am 23. I live in Tashkent. My highest objective, no matter what I do, is to do projects that only
 benefit humanity.For me, honest work is more important than financial gain.</p>
 <hr>
 <h3>Education</h3>
