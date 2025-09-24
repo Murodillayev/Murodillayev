@@ -7,14 +7,14 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <hr>
 <h3>Experience</h3>
 <b>PDP academy - Mentor</b>
-<br><i> 2024-now</i>
+<br><i> 2024-now (1 year 2 month)</i>
 <br>
 <br><b>Olmosmed - Software engineer</b>
-<br><i>2024-now</i>
+<br><i>2024-now (1 year)</i>
 <br>
 <br>
 <b>Realsoft LLC - Software engineer</b>
-<br><i> 2022-2024</i>
+<br><i> 2022-2024 (2 year 6 month)</i>
 <hr>
 <h3>Education</h3>
 <b>TAQI lyceum</b>
