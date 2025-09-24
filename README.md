@@ -5,6 +5,18 @@
 <p>I am 23. I live in Tashkent. My highest objective, no matter what I do, is to do projects that only
 benefit humanity.For me, honest work is more important than financial gain.</p>
 <hr>
+<h3>Experience</h3>
+<b>PDP academy - Mentor</b>
+<br><i> 2024-now</i>
+<br>
+<br><b>Olmosmed - Software engineer</b>
+<br><i>Backend development(Java)</i>
+<br><i>2024-now</i>
+<br>
+<br>
+<b>Realsoft LLC - Software engineer</b>
+<br><i> 2022-2024</i>
+<hr>
 <h3>Education</h3>
 <b>TAQI lyceum</b>
 <br><i> 2015-2018</i>
