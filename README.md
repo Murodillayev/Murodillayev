@@ -10,7 +10,6 @@ benefit humanity.For me, honest work is more important than financial gain.</p>
 <br><i> 2024-now</i>
 <br>
 <br><b>Olmosmed - Software engineer</b>
-<br><i>Backend development(Java)</i>
 <br><i>2024-now</i>
 <br>
 <br>
