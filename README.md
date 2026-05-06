@@ -1,4 +1,4 @@
-<h1>Murodillayev Muhammakdomil</h1>
+<h1>Murodillayev Muhammadkomil</h1>
 <h2>Backend developer</h2>
 <hr>
 <h3>About me</h3>
